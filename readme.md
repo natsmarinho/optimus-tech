@@ -5,7 +5,7 @@ This is a solution to the Interactive landing page challenge from Alura.
 - [Overview](#overview)
   - The challenge is to build out this interactive the landing page of the company Optimus Tech and get it looking as close to the design as possible.
   - 
-  - [Links](#links)
+  - [Links](#links) Deploy: https://natsmarinho.github.io/optimus-tech/
 - My process: It took me 5 days to build this.
   - Built with: HTML5 and CSS3.
   - What I learned: I've learned how to use display block, position: absolute and relative, display block-inline in one <section> and nth-child. And also I've learned more how to built a responsive page.
