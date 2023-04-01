@@ -1,6 +1,6 @@
 This is a solution to the Interactive landing page challenge from Alura.
 
-#<h1 align='center'>OPTIMUSTECH</h1> 
+<h1 align='center'>OPTIMUSTECH</h1> 
 
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
